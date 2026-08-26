@@ -1,0 +1,44 @@
+Console.WriteLine("Hello, World!");
+
+//comentário de uma linha
+
+/* comentário
+de multiplas linhas */
+
+//Alguns tipos de dados
+int number = 10; //inteiro
+string name = "Henrique"; //Letras números e caracteres especiais
+double price = 10.00; //números com casas decimais
+bool hasMoney = true; //verdadeiro ou falso
+char letter = 'A'; //caractere único
+
+//constantes
+
+const int DAYS_IN_WEEK = 7; //constante de valor fixo
+letter = 'B'; //alterando o valor da variavel letter
+
+Console.WriteLine("Informe Seu Nome: ");
+name = Console.ReadLine ();
+
+Console.WriteLine("Seja Bem-Vindo " + name);
+
+//Enumeradores
+
+//enum language { PT, EN, ES, FR, DE };
+/*LowerCase = Caixa baixa
+Uppercase = Caixa alta
+SnakeCase = Palavras separadas por Underline
+CamelCase = Primeira Palavra com letra Minuscula e as demais Maiuscula
+PascalCase = Todas as palavras com letra Maiuscula
+*/
+// Concatenando Strings
+
+string firstname = "Henrique", lastname = " ";
+lastname = "Pauluk";
+string fullname = firstName + lastname;
+console.WriteLine(fullname);
+
+string middname = "De Lima";
+//Interpolação de Strings
+string message = $"Olá {firstname} {middname} {Lastname}, Seja Bem-Vindo!";
+console.WriteLine(message);
