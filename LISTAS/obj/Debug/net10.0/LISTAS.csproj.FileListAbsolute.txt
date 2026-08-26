@@ -1,0 +1,15 @@
+C:\Users\435366\Desktop\ATIVIDADES\2026\LISTAS\bin\Debug\net10.0\LISTAS.exe
+C:\Users\435366\Desktop\ATIVIDADES\2026\LISTAS\bin\Debug\net10.0\LISTAS.deps.json
+C:\Users\435366\Desktop\ATIVIDADES\2026\LISTAS\bin\Debug\net10.0\LISTAS.runtimeconfig.json
+C:\Users\435366\Desktop\ATIVIDADES\2026\LISTAS\bin\Debug\net10.0\LISTAS.dll
+C:\Users\435366\Desktop\ATIVIDADES\2026\LISTAS\bin\Debug\net10.0\LISTAS.pdb
+C:\Users\435366\Desktop\ATIVIDADES\2026\LISTAS\obj\Debug\net10.0\LISTAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\435366\Desktop\ATIVIDADES\2026\LISTAS\obj\Debug\net10.0\LISTAS.AssemblyInfoInputs.cache
+C:\Users\435366\Desktop\ATIVIDADES\2026\LISTAS\obj\Debug\net10.0\LISTAS.AssemblyInfo.cs
+C:\Users\435366\Desktop\ATIVIDADES\2026\LISTAS\obj\Debug\net10.0\LISTAS.csproj.CoreCompileInputs.cache
+C:\Users\435366\Desktop\ATIVIDADES\2026\LISTAS\obj\Debug\net10.0\LISTAS.sourcelink.json
+C:\Users\435366\Desktop\ATIVIDADES\2026\LISTAS\obj\Debug\net10.0\LISTAS.dll
+C:\Users\435366\Desktop\ATIVIDADES\2026\LISTAS\obj\Debug\net10.0\refint\LISTAS.dll
+C:\Users\435366\Desktop\ATIVIDADES\2026\LISTAS\obj\Debug\net10.0\LISTAS.pdb
+C:\Users\435366\Desktop\ATIVIDADES\2026\LISTAS\obj\Debug\net10.0\LISTAS.genruntimeconfig.cache
+C:\Users\435366\Desktop\ATIVIDADES\2026\LISTAS\obj\Debug\net10.0\ref\LISTAS.dll
