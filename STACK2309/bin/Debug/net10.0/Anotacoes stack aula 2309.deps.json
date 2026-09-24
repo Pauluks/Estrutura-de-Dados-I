@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Anotacoes stack aula 2309/1.0.0": {
+        "runtime": {
+          "Anotacoes stack aula 2309.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Anotacoes stack aula 2309/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

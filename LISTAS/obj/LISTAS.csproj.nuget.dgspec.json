@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\435366\\Desktop\\ATIVIDADES\\2026\\LISTAS\\LISTAS.csproj": {}
+    "C:\\Users\\435366\\Desktop\\ATIVIDADES\\ATIVIDADES\\2026\\LISTAS\\LISTAS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\435366\\Desktop\\ATIVIDADES\\2026\\LISTAS\\LISTAS.csproj": {
+    "C:\\Users\\435366\\Desktop\\ATIVIDADES\\ATIVIDADES\\2026\\LISTAS\\LISTAS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\435366\\Desktop\\ATIVIDADES\\2026\\LISTAS\\LISTAS.csproj",
+        "projectUniqueName": "C:\\Users\\435366\\Desktop\\ATIVIDADES\\ATIVIDADES\\2026\\LISTAS\\LISTAS.csproj",
         "projectName": "LISTAS",
-        "projectPath": "C:\\Users\\435366\\Desktop\\ATIVIDADES\\2026\\LISTAS\\LISTAS.csproj",
+        "projectPath": "C:\\Users\\435366\\Desktop\\ATIVIDADES\\ATIVIDADES\\2026\\LISTAS\\LISTAS.csproj",
         "packagesPath": "C:\\Users\\435366\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\435366\\Desktop\\ATIVIDADES\\2026\\LISTAS\\obj\\",
+        "outputPath": "C:\\Users\\435366\\Desktop\\ATIVIDADES\\ATIVIDADES\\2026\\LISTAS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

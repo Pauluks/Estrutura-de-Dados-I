@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\435366\\Desktop\\ATIVIDADES\\2026\\EXERCICIOS\\Palindromo\\Palindromo.csproj": {}
+    "C:\\Users\\435366\\Desktop\\ATIVIDADES\\ATIVIDADES\\2026\\EXERCICIOS\\Palindromo\\Palindromo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\435366\\Desktop\\ATIVIDADES\\2026\\EXERCICIOS\\Palindromo\\Palindromo.csproj": {
+    "C:\\Users\\435366\\Desktop\\ATIVIDADES\\ATIVIDADES\\2026\\EXERCICIOS\\Palindromo\\Palindromo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\435366\\Desktop\\ATIVIDADES\\2026\\EXERCICIOS\\Palindromo\\Palindromo.csproj",
+        "projectUniqueName": "C:\\Users\\435366\\Desktop\\ATIVIDADES\\ATIVIDADES\\2026\\EXERCICIOS\\Palindromo\\Palindromo.csproj",
         "projectName": "Palindromo",
-        "projectPath": "C:\\Users\\435366\\Desktop\\ATIVIDADES\\2026\\EXERCICIOS\\Palindromo\\Palindromo.csproj",
+        "projectPath": "C:\\Users\\435366\\Desktop\\ATIVIDADES\\ATIVIDADES\\2026\\EXERCICIOS\\Palindromo\\Palindromo.csproj",
         "packagesPath": "C:\\Users\\435366\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\435366\\Desktop\\ATIVIDADES\\2026\\EXERCICIOS\\Palindromo\\obj\\",
+        "outputPath": "C:\\Users\\435366\\Desktop\\ATIVIDADES\\ATIVIDADES\\2026\\EXERCICIOS\\Palindromo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
