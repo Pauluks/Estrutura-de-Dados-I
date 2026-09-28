@@ -1,0 +1,15 @@
+C:\Users\Henrique\OneDrive\Desktop\ATIVIDADES\2026\EXERCICIOS\AULA2309\bin\Debug\net10.0\AULA2309.exe
+C:\Users\Henrique\OneDrive\Desktop\ATIVIDADES\2026\EXERCICIOS\AULA2309\bin\Debug\net10.0\AULA2309.deps.json
+C:\Users\Henrique\OneDrive\Desktop\ATIVIDADES\2026\EXERCICIOS\AULA2309\bin\Debug\net10.0\AULA2309.runtimeconfig.json
+C:\Users\Henrique\OneDrive\Desktop\ATIVIDADES\2026\EXERCICIOS\AULA2309\bin\Debug\net10.0\AULA2309.dll
+C:\Users\Henrique\OneDrive\Desktop\ATIVIDADES\2026\EXERCICIOS\AULA2309\bin\Debug\net10.0\AULA2309.pdb
+C:\Users\Henrique\OneDrive\Desktop\ATIVIDADES\2026\EXERCICIOS\AULA2309\obj\Debug\net10.0\AULA2309.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\OneDrive\Desktop\ATIVIDADES\2026\EXERCICIOS\AULA2309\obj\Debug\net10.0\AULA2309.AssemblyInfoInputs.cache
+C:\Users\Henrique\OneDrive\Desktop\ATIVIDADES\2026\EXERCICIOS\AULA2309\obj\Debug\net10.0\AULA2309.AssemblyInfo.cs
+C:\Users\Henrique\OneDrive\Desktop\ATIVIDADES\2026\EXERCICIOS\AULA2309\obj\Debug\net10.0\AULA2309.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\OneDrive\Desktop\ATIVIDADES\2026\EXERCICIOS\AULA2309\obj\Debug\net10.0\AULA2309.sourcelink.json
+C:\Users\Henrique\OneDrive\Desktop\ATIVIDADES\2026\EXERCICIOS\AULA2309\obj\Debug\net10.0\AULA2309.dll
+C:\Users\Henrique\OneDrive\Desktop\ATIVIDADES\2026\EXERCICIOS\AULA2309\obj\Debug\net10.0\refint\AULA2309.dll
+C:\Users\Henrique\OneDrive\Desktop\ATIVIDADES\2026\EXERCICIOS\AULA2309\obj\Debug\net10.0\AULA2309.pdb
+C:\Users\Henrique\OneDrive\Desktop\ATIVIDADES\2026\EXERCICIOS\AULA2309\obj\Debug\net10.0\AULA2309.genruntimeconfig.cache
+C:\Users\Henrique\OneDrive\Desktop\ATIVIDADES\2026\EXERCICIOS\AULA2309\obj\Debug\net10.0\ref\AULA2309.dll
