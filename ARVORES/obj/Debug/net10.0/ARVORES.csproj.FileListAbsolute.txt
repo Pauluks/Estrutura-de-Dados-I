@@ -1,0 +1,15 @@
+C:\Users\435366\Desktop\ATIVIDADES\2026\ARVORES\bin\Debug\net10.0\ARVORES.exe
+C:\Users\435366\Desktop\ATIVIDADES\2026\ARVORES\bin\Debug\net10.0\ARVORES.deps.json
+C:\Users\435366\Desktop\ATIVIDADES\2026\ARVORES\bin\Debug\net10.0\ARVORES.runtimeconfig.json
+C:\Users\435366\Desktop\ATIVIDADES\2026\ARVORES\bin\Debug\net10.0\ARVORES.dll
+C:\Users\435366\Desktop\ATIVIDADES\2026\ARVORES\bin\Debug\net10.0\ARVORES.pdb
+C:\Users\435366\Desktop\ATIVIDADES\2026\ARVORES\obj\Debug\net10.0\ARVORES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\435366\Desktop\ATIVIDADES\2026\ARVORES\obj\Debug\net10.0\ARVORES.AssemblyInfoInputs.cache
+C:\Users\435366\Desktop\ATIVIDADES\2026\ARVORES\obj\Debug\net10.0\ARVORES.AssemblyInfo.cs
+C:\Users\435366\Desktop\ATIVIDADES\2026\ARVORES\obj\Debug\net10.0\ARVORES.csproj.CoreCompileInputs.cache
+C:\Users\435366\Desktop\ATIVIDADES\2026\ARVORES\obj\Debug\net10.0\ARVORES.sourcelink.json
+C:\Users\435366\Desktop\ATIVIDADES\2026\ARVORES\obj\Debug\net10.0\ARVORES.dll
+C:\Users\435366\Desktop\ATIVIDADES\2026\ARVORES\obj\Debug\net10.0\refint\ARVORES.dll
+C:\Users\435366\Desktop\ATIVIDADES\2026\ARVORES\obj\Debug\net10.0\ARVORES.pdb
+C:\Users\435366\Desktop\ATIVIDADES\2026\ARVORES\obj\Debug\net10.0\ARVORES.genruntimeconfig.cache
+C:\Users\435366\Desktop\ATIVIDADES\2026\ARVORES\obj\Debug\net10.0\ref\ARVORES.dll
